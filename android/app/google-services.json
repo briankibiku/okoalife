@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "876438292841",
+    "firebase_url": "https://mydoorstep-664fb.firebaseio.com",
+    "project_id": "mydoorstep-664fb",
+    "storage_bucket": "mydoorstep-664fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876438292841:android:f0670185e407f42e6cd5f8",
+        "android_client_info": {
+          "package_name": "com.b2k.mydoorstep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876438292841-185k23lfi0beqmhh8gql58m9j9t0n2o9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMe0lY77gV4n_1Y2jJd9gWs2c6Yt0ZQdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876438292841-185k23lfi0beqmhh8gql58m9j9t0n2o9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
