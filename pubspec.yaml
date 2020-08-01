@@ -1,4 +1,4 @@
-name: mydoorstep
+name: okoalife
 description: A new Flutter project.
  
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
@@ -14,7 +14,11 @@ dependencies:
  
   cupertino_icons: ^0.1.3
   firebase_auth: ^0.16.1
-  google_sign_in: ^4.5.1
+  google_sign_in: ^4.5.1 
+  cloud_firestore: ^0.13.6
+  firebase_core: ^0.4.5
+  intl: ^0.16.1
+  rxdart: ^0.24.1
 
 dev_dependencies:
   flutter_test:

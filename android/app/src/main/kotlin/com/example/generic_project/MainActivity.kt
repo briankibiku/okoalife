@@ -1,4 +1,4 @@
-package com.example.mydoorstep
+package com.example.okoalife
 
 import io.flutter.embedding.android.FlutterActivity
 

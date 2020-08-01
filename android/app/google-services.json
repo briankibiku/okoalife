@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "876438292841",
-    "firebase_url": "https://mydoorstep-664fb.firebaseio.com",
-    "project_id": "mydoorstep-664fb",
-    "storage_bucket": "mydoorstep-664fb.appspot.com"
+    "project_number": "111650513388",
+    "firebase_url": "https://okoalife-55347.firebaseio.com",
+    "project_id": "okoalife-55347",
+    "storage_bucket": "okoalife-55347.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:876438292841:android:f0670185e407f42e6cd5f8",
+        "mobilesdk_app_id": "1:111650513388:android:f81b77aea9ba62d79660c9",
         "android_client_info": {
-          "package_name": "com.b2k.mydoorstep"
+          "package_name": "com.b2k.okoalife"
         }
       },
       "oauth_client": [
         {
-          "client_id": "876438292841-185k23lfi0beqmhh8gql58m9j9t0n2o9.apps.googleusercontent.com",
+          "client_id": "111650513388-0rp75sklag52b6rkbq3vc2b6mf5fgjsf.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCMe0lY77gV4n_1Y2jJd9gWs2c6Yt0ZQdg"
+          "current_key": "AIzaSyAM4hG271nBuWXx2gn-yBHUtkDC0wRvMxU"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "876438292841-185k23lfi0beqmhh8gql58m9j9t0n2o9.apps.googleusercontent.com",
+              "client_id": "111650513388-0rp75sklag52b6rkbq3vc2b6mf5fgjsf.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
